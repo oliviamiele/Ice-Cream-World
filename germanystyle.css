@@ -192,7 +192,7 @@ iframe {
     position: absolute;
     padding-top: 1000px;
     padding-left: 300px;
-    z-index: 20;
+    z-index: 8;
     padding-bottom: 400px;
 }
 
