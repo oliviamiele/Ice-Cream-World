@@ -1,0 +1,131 @@
+
+
+
+body {
+    background-image: url(Images/pink\ yellow\ gradient\ background.png);
+    background-size:cover;
+ position: relative;
+
+}
+
+
+
+   h2 { 
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100px;
+    padding-left: 1245px;
+    margin-top: -2px;
+    position: absolute;
+    color:rgb(22, 94, 166);
+    z-index: 10;
+    position: fixed;
+    letter-spacing: 1px;
+}
+
+h3 {
+    font-size: 60px;
+    font-family: "american typewriter";
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    padding-left: 650px;
+    padding-top: 200px;
+    position: absolute;
+    padding-bottom: 500px;
+    z-index: 5;
+
+}
+
+h4 {
+    font-size: 60px;
+    font-family: "american typewriter";
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    padding-left: 610px;
+    padding-top: 374px;
+    position: absolute;
+    padding-right: 10px;
+    z-index: 5;
+
+}
+
+
+
+#pinkwavy {
+    height:55px;
+    width: 1500px;
+    margin-top: -20px;
+    position: fixed;
+    z-index: 9;
+    margin-left: -11px;
+    margin-right: -1px;
+}
+
+
+.homebutton-hover {
+    height: 32px;
+    width: auto;
+    position: fixed;
+    margin-left: 40px;
+    margin-top: -2px;
+    z-index: 30;
+  
+   
+   }
+  
+   .homebutton-hover img {
+    height: 32px;
+    width: auto;
+    position: fixed;
+    margin-left: 40px;
+    margin-top: -2px;
+    z-index: 30;
+    
+    }
+
+  .homebutton-hover img.img-front:hover{
+    opacity:0;
+    cursor: pointer;
+  }
+
+
+  .box1 {
+    height: 80px;
+    width: 400px;
+    position: absolute;
+    margin-left: 525px;
+    margin-top: 250px;
+    z-index: -1;
+    background-color:#ffa5e3;
+  
+}
+
+.box2 {
+    height: 80px;
+    width: 400px;
+    position: absolute;
+    margin-left: 525px;
+    margin-top: 450px;
+    z-index: -1;
+    background-color:#ffa5e3;
+  
+}
+
+#tinysparkle {
+    height:15px;
+    width: auto;
+    padding-top: 270px;
+    padding-left: 610px ;
+    position: absolute;
+    z-index: 4;
+
+}
+#tinysparkle1 {
+    height:12px;
+    width: auto;
+    padding-top: 500px;
+    padding-left: 860px ;
+    position: absolute;
+    z-index: 4;
+
+}
