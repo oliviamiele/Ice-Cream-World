@@ -23,32 +23,42 @@ body {
     letter-spacing: 1px;
 }
 
-h3 {
+.nick {
     font-size: 60px;
     font-family: "american typewriter";
     font-weight: 400;
+    text-decoration: none;
     color: rgb(255, 255, 255);
-    padding-left: 650px;
-    padding-top: 200px;
+    padding-left: 670px;
+    margin-top: 230px;
     position: absolute;
     padding-bottom: 500px;
-    z-index: 5;
+    z-index: 12;
 
 }
 
-h4 {
+a:hover {
+    color:rgb(172, 224, 252);
+
+
+}
+
+.graham {
     font-size: 60px;
     font-family: "american typewriter";
+    text-decoration:none;
     font-weight: 400;
     color: rgb(255, 255, 255);
     padding-left: 610px;
-    padding-top: 374px;
+    margin-top: 420px;
     position: absolute;
     padding-right: 10px;
-    z-index: 5;
+    z-index: 15;
 
 }
-
+a:hover {
+    color:rgb(172, 224, 252);
+}
 
 
 #pinkwavy {
@@ -94,7 +104,7 @@ h4 {
     width: 400px;
     position: absolute;
     margin-left: 525px;
-    margin-top: 250px;
+    margin-top: 220px;
     z-index: -1;
     background-color:#ffa5e3;
   
@@ -105,7 +115,7 @@ h4 {
     width: 400px;
     position: absolute;
     margin-left: 525px;
-    margin-top: 450px;
+    margin-top: 412px;
     z-index: -1;
     background-color:#ffa5e3;
   
@@ -114,7 +124,7 @@ h4 {
 #tinysparkle {
     height:15px;
     width: auto;
-    padding-top: 270px;
+    padding-top: 240px;
     padding-left: 610px ;
     position: absolute;
     z-index: 4;
@@ -123,7 +133,7 @@ h4 {
 #tinysparkle1 {
     height:12px;
     width: auto;
-    padding-top: 500px;
+    padding-top: 470px;
     padding-left: 860px ;
     position: absolute;
     z-index: 4;
