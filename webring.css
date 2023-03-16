@@ -23,13 +23,13 @@ body {
     letter-spacing: 1px;
 }
 
-.nick {
+.Dana {
     font-size: 60px;
     font-family: "american typewriter";
     font-weight: 400;
     text-decoration: none;
     color: rgb(255, 255, 255);
-    padding-left: 670px;
+    padding-left: 650px;
     margin-top: 230px;
     position: absolute;
     padding-bottom: 500px;
@@ -43,14 +43,14 @@ a:hover {
 
 }
 
-.graham {
+.Jiyoung {
     font-size: 60px;
     font-family: "american typewriter";
     text-decoration:none;
     font-weight: 400;
     color: rgb(255, 255, 255);
     padding-left: 610px;
-    margin-top: 420px;
+    margin-top: 415px;
     position: absolute;
     padding-right: 10px;
     z-index: 15;
@@ -133,7 +133,7 @@ a:hover {
 #tinysparkle1 {
     height:12px;
     width: auto;
-    padding-top: 470px;
+    padding-top: 460px;
     padding-left: 860px ;
     position: absolute;
     z-index: 4;
